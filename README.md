@@ -52,6 +52,8 @@ The **AI-Lawyer Chatbot** is an intelligent legal assistant that uses **Retrieva
 
 - Retrieve relevant chunks from FAISS
 - Answer using DeepSeek R1 with Groq
+  ![Screenshot 2025-06-08 001001](https://github.com/user-attachments/assets/d23e6f18-9a2c-4afa-b57f-964a4d4463fc)
+
 
 ## ⚙️ Setup Guide (Quick Start)
 
