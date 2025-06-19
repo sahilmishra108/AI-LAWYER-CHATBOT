@@ -110,6 +110,8 @@ python vector_database.py
 ```bash
 python rag_pipeline.py
 ```
+![Screenshot 2025-06-19 191440](https://github.com/user-attachments/assets/8d7a9139-1f79-4f74-9610-1ed1d1da2185)
+
 ## 🧪 Example Use Case
 
 Upload `universal_declaration_of_human_rights.pdf` and ask:
